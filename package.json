@@ -1,0 +1,7 @@
+{
+  "name": "frontend-tsconfig",
+  "version": "1.0.0",
+  "main": "tsconfig.json",
+  "author": "lukas.vaic <lukas.vaic@qest.cz>",
+  "license": "MIT"
+}
